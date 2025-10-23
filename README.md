@@ -53,7 +53,7 @@ By December 20, 2025, this repository will contain:
 ---
 
 ## ✨ Author
-*Ryan Kappul*  
+*Joshua Nortey*  
 Data Analyst in Training | Ghana  
 📧 [Add your email here if you’d like — optional]  
 🌍 [Add your LinkedIn or portfolio link later]
