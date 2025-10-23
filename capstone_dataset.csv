@@ -1,0 +1,101 @@
+bedrooms,bathrooms,price,address,listing_date
+Studio,2,500000,  9 king rd,N/A
+ 2 ,2.5,,12 MAIN street,05/11/22
+six,2.5,N/A,12 MAIN street,N/A
+1br,2.5,300000,  9 king rd,May 12 2022
+n/a, 3 ,210000,  9 king rd,05/11/22
+six,2,450000,  9 king rd,05/11/22
+5.0, 3 ,500000,Sunset Boulevard,05/11/22
+Studio,none,450000,ocean view 55,2022-05-10
+5 bedrooms, 3 ,120000,12 MAIN street,2022-05-10
+three,2,120000,Sunset Boulevard,2022-05-10
+Studio,2,500000,  9 king rd,May 12 2022
+1br,none,500000,12 MAIN street,
+1br,2,300000,Sunset Boulevard,N/A
+n/a,2 bathrooms,500000,ocean view 55,2022/05/14
+5.0,2,175000,Sunset Boulevard,05/11/22
+ 2 ,2.5,450000,ocean view 55,N/A
+n/a,2 bathrooms,N/A,  9 king rd,05/11/22
+n/a,2 bathrooms,230000,ocean view 55,May 12 2022
+three,none,500000,12 MAIN street,05/11/22
+,one,,  9 king rd,2022-05-10
+5.0,one,120000,12 MAIN street,2022/05/14
+3 bedrooms,2,175000,Highway 21 ,13-05-2022
+n/a,2 bathrooms,210000,45 broadWAY,05/11/22
+two,one,230000,ocean view 55,N/A
+,one,N/A,45 broadWAY,2022-05-10
+3 bedrooms,2,230000,45 broadWAY,13-05-2022
+two,one,500000,ocean view 55,2022/05/14
+5.0, 3 ,300000,  9 king rd,13-05-2022
+3,1 bath,120000,Highway 21 ,2022-05-10
+two,none,120000,12 MAIN street,
+5 bedrooms,1 bath,210000,Sunset Boulevard,
+,2,300000,12 MAIN street,13-05-2022
+six,2.5,450000,Sunset Boulevard,May 12 2022
+two,none,250000,12 MAIN street,N/A
+four,2,175000,ocean view 55,N/A
+3,2 bathrooms,120000,Highway 21 ,13-05-2022
+1br,2.5,,Sunset Boulevard,05/11/22
+1br,1 bath,120000,  9 king rd,05/11/22
+5 bedrooms,2,230000,12 MAIN street,N/A
+two,2 bathrooms,120000,12 MAIN street,N/A
+two,none,120000,Sunset Boulevard,
+three,none,250000,  9 king rd,May 12 2022
+two,n/a,250000,  9 king rd,2022-05-10
+Studio,2 bathrooms,N/A,ocean view 55,05/11/22
+ 2 , 3 ,450000,ocean view 55,N/A
+four,one,,ocean view 55,
+three,2.5,120000,ocean view 55,2022/05/14
+5.0,2 bathrooms,120000,ocean view 55,
+three,n/a,175000,ocean view 55,05/11/22
+Studio,one,250000,Highway 21 ,05/11/22
+5.0,one,,  9 king rd,
+four,2,210000,ocean view 55,2022-05-10
+Studio,one,N/A,  9 king rd,13-05-2022
+3 bedrooms, 3 ,450000,  9 king rd,05/11/22
+ 2 ,none,300000,45 broadWAY,
+four,n/a,450000,Highway 21 ,N/A
+two,one,230000,ocean view 55,
+3 bedrooms,2,120000,12 MAIN street,May 12 2022
+5 bedrooms, 3 ,N/A,Sunset Boulevard,13-05-2022
+four,1 bath,230000,12 MAIN street,2022/05/14
+5 bedrooms,none,,Highway 21 ,2022-05-10
+5.0,none,300000,Sunset Boulevard,2022/05/14
+3 bedrooms,n/a,250000,Highway 21 ,13-05-2022
+ 2 ,none,N/A,  9 king rd,13-05-2022
+two,one,N/A,Sunset Boulevard,13-05-2022
+two,2,120000,  9 king rd,2022/05/14
+Studio,none,500000,12 MAIN street,N/A
+two,none,N/A,12 MAIN street,13-05-2022
+six,1 bath,175000,Sunset Boulevard,
+n/a,1 bath,300000,Sunset Boulevard,2022/05/14
+three,2.5,300000,ocean view 55,13-05-2022
+3, 3 ,175000,Highway 21 ,
+ 2 ,one,210000,ocean view 55,N/A
+3 bedrooms,none,175000,Highway 21 ,May 12 2022
+n/a,2 bathrooms,175000,ocean view 55,N/A
+ 2 ,none,300000,  9 king rd,13-05-2022
+3 bedrooms,2,450000,Sunset Boulevard,2022/05/14
+,2.5,300000,12 MAIN street,05/11/22
+, 3 ,500000,Highway 21 ,13-05-2022
+5 bedrooms,2 bathrooms,120000,Highway 21 ,05/11/22
+ 2 ,2.5,230000,12 MAIN street,
+,n/a,450000,ocean view 55,May 12 2022
+six, 3 ,250000,Highway 21 ,2022-05-10
+3 bedrooms,none,230000,  9 king rd,N/A
+5 bedrooms,none,120000,Sunset Boulevard,May 12 2022
+two, 3 ,500000,12 MAIN street,13-05-2022
+3 bedrooms,none,500000,Sunset Boulevard,05/11/22
+5 bedrooms,one,250000,Highway 21 ,N/A
+ 2 , 3 ,450000,Highway 21 ,05/11/22
+n/a,2.5,210000,12 MAIN street,2022/05/14
+Studio, 3 ,175000,  9 king rd,05/11/22
+two,2 bathrooms,450000,45 broadWAY,2022/05/14
+four,none,210000,12 MAIN street,
+n/a,one,500000,45 broadWAY,N/A
+5.0,one,300000,ocean view 55,N/A
+six,n/a,120000,45 broadWAY,2022-05-10
+3 bedrooms,2.5,250000,  9 king rd,13-05-2022
+5.0,1 bath,120000,ocean view 55,2022/05/14
+n/a,1 bath,,45 broadWAY,2022-05-10
+5 bedrooms, 3 ,,ocean view 55,05/11/22
